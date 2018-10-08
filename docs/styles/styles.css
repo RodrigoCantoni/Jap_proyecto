@@ -1,0 +1,517 @@
+/*Estilos en General*/
+.body, .html {
+        background-image: url("http://www.paginasweblistas.com/images/backgrounds/home-slide-01.jpg");
+        height: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+}
+.subtitle {
+    font-family: Arial Narrow;
+    color:blue;
+    font-size: 200%
+    }
+.descrip{
+        font-family: cursive ;
+        color: rgb(226, 43, 43); 
+    }
+/*pagina principal*/
+.principal {  color: crimson;
+    font-family: fantasy;
+    font-size: 350%
+      }
+/*KindomHearts3*/
+.kh3 {
+    color: skyblue;
+    text-shadow: 1px 1px 2px skyblue,
+    5px 5px 1px skyblue,
+    6px 6px 2px skyblue,
+    10px 10px 1px skyblue,
+    11px 11px 2px skyblue,
+    15px 15px 1px skyblue,
+    16px 16px 2px skyblue;
+    -webkit-animation: text-snake 5s infinite alternate;
+    -moz-animation: text-snake 5s infinite alternate;
+    -ms-animation: text-snake 5s infinite alternate;
+    animation: text-snake 5s infinite alternate;
+}
+@-webkit-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px  purple,
+        6px 6px 2px  purple,
+        10px 10px 1px  purple,
+        11px 11px 2px  purple,
+        15px 15px 1px purple,
+        16px 16px 2px  purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px peru,
+        -5px 5px 1px peru,
+        -6px 6px 2px peru,
+        -10px 10px 1px peru,
+        -11px 11px 2px peru,
+        -15px 15px 1px peru,
+        -16px 16px 2px peru;
+    }
+}
+@-moz-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px  purple,
+        6px 6px 2px  purple,
+        10px 10px 1px  purple,
+        11px 11px 2px  purple,
+        15px 15px 1px purple,
+        16px 16px 2px  purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px peru,
+        -5px 5px 1px peru,
+        -6px 6px 2px peru,
+        -10px 10px 1px peru,
+        -11px 11px 2px peru,
+        -15px 15px 1px peru,
+        -16px 16px 2px peru;
+    }
+}
+@-ms-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px  purple,
+        6px 6px 2px  purple,
+        10px 10px 1px  purple,
+        11px 11px 2px  purple,
+        15px 15px 1px purple,
+        16px 16px 2px  purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px peru,
+        -5px 5px 1px peru,
+        -6px 6px 2px peru,
+        -10px 10px 1px peru,
+        -11px 11px 2px peru,
+        -15px 15px 1px peru,
+        -16px 16px 2px peru;
+    }
+}
+@keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px  purple,
+        6px 6px 2px  purple,
+        10px 10px 1px  purple,
+        11px 11px 2px  purple,
+        15px 15px 1px purple,
+        16px 16px 2px  purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px peru,
+        -5px 5px 1px peru,
+        -6px 6px 2px peru,
+        -10px 10px 1px peru,
+        -11px 11px 2px peru,
+        -15px 15px 1px peru,
+        -16px 16px 2px peru;
+    }
+}
+/*TW3: wild hunt*/
+.tw3title  {
+    color: rgb(0, 102, 255);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+    5px 5px 1px rgb(0, 26, 255),
+    6px 6px 2px rgba(0, 0, 0, 0.7),
+    10px 10px 1px red,
+    11px 11px 2px rgba(0, 0, 0, 0.7),
+    15px 15px 1px purple,
+    16px 16px 2px rgba(0, 0, 0, 0.7);
+    -webkit-animation: text-snake 5s infinite alternate;
+    -moz-animation: text-snake 5s infinite alternate;
+    -ms-animation: text-snake 5s infinite alternate;
+    animation: text-snake 5s infinite alternate;
+}
+@-webkit-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px purple,
+        6px 6px 2px purple,
+        10px 10px 1px purple,
+        11px 11px 2px purple,
+        15px 15px 1px purple,
+        16px 16px 2px purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px blue,
+        -5px 5px 1px blue,
+        -6px 6px 2px blue,
+        -10px 10px 1px blue,
+        -11px 11px 2px blue,
+        -15px 15px 1px blue,
+        -16px 16px 2px blue;
+    }
+}
+@-moz-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px purple,
+        6px 6px 2px purple,
+        10px 10px 1px purple,
+        11px 11px 2px purple,
+        15px 15px 1px purple,
+        16px 16px 2px purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px blue,
+        -5px 5px 1px blue,
+        -6px 6px 2px blue,
+        -10px 10px 1px blue,
+        -11px 11px 2px blue,
+        -15px 15px 1px blue,
+        -16px 16px 2px blue;
+    }
+}
+@-ms-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px purple,
+        6px 6px 2px purple,
+        10px 10px 1px purple,
+        11px 11px 2px purple,
+        15px 15px 1px purple,
+        16px 16px 2px purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px blue,
+        -5px 5px 1px blue,
+        -6px 6px 2px blue,
+        -10px 10px 1px blue,
+        -11px 11px 2px blue,
+        -15px 15px 1px blue,
+        -16px 16px 2px blue;
+    }
+}
+@keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px purple,
+        5px 5px 1px purple,
+        6px 6px 2px purple,
+        10px 10px 1px purple,
+        11px 11px 2px purple,
+        15px 15px 1px purple,
+        16px 16px 2px purple;
+    }
+    to {
+        text-shadow: -1px 1px 2px blue,
+        -5px 5px 1px blue,
+        -6px 6px 2px blue,
+        -10px 10px 1px blue,
+        -11px 11px 2px blue,
+        -15px 15px 1px blue,
+        -16px 16px 2px blue;
+    }
+}
+
+/*LifeisStrange2*/
+.lis2    
+{
+    color: yellow;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+    5px 5px 1px white,
+    6px 6px 2px black,
+    10px 10px 1px red,
+    11px 11px 2px rgba(0, 0, 0, 0.7),
+    15px 15px 1px purple,
+    16px 16px 2px rgba(0, 0, 0, 0.7);
+    -webkit-animation: text-snake 5s infinite alternate;
+    -moz-animation: text-snake 5s infinite alternate;
+    -ms-animation: text-snake 5s infinite alternate;
+    animation: text-snake 5s infinite alternate;
+}
+@-webkit-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-moz-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-ms-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+        font-size: 400%;
+    }
+}
+/*Fifa19*/
+.fifa19 {
+    color: purple;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+    5px 5px 1px white,
+    6px 6px 2px black,
+    10px 10px 1px red,
+    11px 11px 2px rgba(0, 0, 0, 0.7),
+    15px 15px 1px purple,
+    16px 16px 2px rgba(0, 0, 0, 0.7);
+    -webkit-animation: text-snake 5s infinite alternate;
+    -moz-animation: text-snake 5s infinite alternate;
+    -ms-animation: text-snake 5s infinite alternate;
+    animation: text-snake 5s infinite alternate;
+}
+@-webkit-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-moz-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-ms-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+        font-size: 400%;
+    }
+}
+/*NBA*/
+.nba {
+    color: green;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+    5px 5px 1px white,
+    6px 6px 2px black,
+    10px 10px 1px red,
+    11px 11px 2px rgba(0, 0, 0, 0.7),
+    15px 15px 1px purple,
+    16px 16px 2px rgba(0, 0, 0, 0.7);
+    -webkit-animation: text-snake 5s infinite alternate;
+    -moz-animation: text-snake 5s infinite alternate;
+    -ms-animation: text-snake 5s infinite alternate;
+    animation: text-snake 5s infinite alternate;
+}
+@-webkit-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-moz-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@-ms-keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+}
+@keyframes text-snake {
+    from {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7),
+        5px 5px 1px orange,
+        6px 6px 2px rgba(0, 0, 0, 0.7),
+        10px 10px 1px red,
+        11px 11px 2px rgba(0, 0, 0, 0.7),
+        15px 15px 1px purple,
+        16px 16px 2px rgba(0, 0, 0, 0.7);
+    }
+    to {
+        text-shadow: -1px 1px 2px rgba(0, 0, 0, 0.7),
+        -5px 5px 1px orange,
+        -6px 6px 2px rgba(0, 0, 0, 0.7),
+        -10px 10px 1px red,
+        -11px 11px 2px rgba(0, 0, 0, 0.7),
+        -15px 15px 1px purple,
+        -16px 16px 2px rgba(0, 0, 0, 0.7);
+        font-size: 400%;
+    }
+}
+/*Responsive celulares*/
+@media screen and (max-width:600px) and (min-width:400px) {
+    .media { 
+             width: 100% ; height: 100%;
+           
+    }
+}
+@media screen and (max-width:1000px)  and (min-width:601px) {
+    .media { 
+             width: 100% ; height: 100%;
+           
+    }
+}
